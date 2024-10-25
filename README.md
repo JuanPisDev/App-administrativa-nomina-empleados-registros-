@@ -6,4 +6,13 @@ yo confio en nosotros.
 
 Idea: 
 
-Crear una App administrativa que sea completamente funcional y util para una empresa real, 
+Crear una App administrativa que sea completamente funcional y util para una empresa real, que nos permita trabajar las nominas de los empleados, los registros y todo lo que se nos ocurra agregar, por el momento la idea en la que pienso en App es así:
+
+Interfaz de registro.
+Menu general.
+Opciones:
+  -Registro.
+  -Nomina.
+  -Tareas por hacer(Tipo trello).
+  
+
